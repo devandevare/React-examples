@@ -1,0 +1,12 @@
+{
+  "preset": "ts-jest",
+  "testRegex": "((\\.|/)test)\\.tsx$",
+  "testEnvironment": "jsdom",
+  "moduleFileExtensions": [
+    "ts",
+    "tsx",
+    "js",
+    "jsx",
+    "json"
+  ]
+}

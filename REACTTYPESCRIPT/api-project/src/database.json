@@ -1,0 +1,26 @@
+{
+  "posts": [
+    {
+      "Name": "Devan",
+      "email": "devandevare@gmail.com",
+      "address": "Jalgaon",
+      "id": 1
+    },
+    {
+      "Name": "Anil",
+      "email": "Anil@gmail.com",
+      "address": "pune",
+      "id": 2
+    },
+    {
+      "Name": "akshay bhagat",
+      "email": "ak@gmail.com",
+      "address": "pune",
+      "id": 3
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}

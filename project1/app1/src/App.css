@@ -1,0 +1,26 @@
+.navbar{
+  background-color: #042c11;
+  color: aliceblue;
+}
+.homediv{
+  height: 500px;
+  background: rgb(52, 190, 179);
+}
+
+.contactdiv{
+  height: 500px;
+  background: rgb(252, 249, 117);
+}
+
+.portfoliodiv{
+
+  height: 500px;
+  background: rgb(255, 224, 87);
+  
+}
+
+.aboutdiv{
+  height: 500px;
+  background: cyan;
+
+}

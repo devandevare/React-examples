@@ -1,0 +1,105 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "nvh95",
+      "name": "Hung Viet Nguyen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8603085?v=4",
+      "profile": "https://hung.dev",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Songuku95",
+      "name": "Nguyễn Duy Khánh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9360548?v=4",
+      "profile": "https://github.com/Songuku95",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "YBeck",
+      "name": "YBeck",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28867948?v=4",
+      "profile": "https://github.com/YBeck",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "mehdirazajaffri",
+      "name": "Mehdi Raza",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10342757?v=4",
+      "profile": "https://github.com/mehdirazajaffri",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "phillipDenness",
+      "name": "Phillip Denness",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7850970?v=4",
+      "profile": "https://www.linkedin.com/in/phillipdenness/",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "deepdil-sp",
+      "name": "dsp.iam",
+      "avatar_url": "https://avatars.githubusercontent.com/u/39123166?v=4",
+      "profile": "https://github.com/deepdil-sp",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "vitalii-bulyzhyn",
+      "name": "Vitalii Bulyzhyn",
+      "avatar_url": "https://avatars.githubusercontent.com/u/46309116?v=4",
+      "profile": "https://github.com/vitalii-bulyzhyn",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "pradeeptinku",
+      "name": "Pradeep Reddy Guduru",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8938131?v=4",
+      "profile": "https://github.com/pradeeptinku",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "uricbonatti",
+      "name": "Uric Bonatti Cardoso",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43557914?v=4",
+      "profile": "http://linkedin.com/in/uric-bonatti-cardoso-820275132/",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "faisalur-rehman",
+      "name": "faisalur-rehman",
+      "avatar_url": "https://avatars.githubusercontent.com/u/66237466?v=4",
+      "profile": "https://github.com/faisalur-rehman",
+      "contributions": [
+        "doc",
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "react-linkedin-login-oauth2",
+  "projectOwner": "nvh95",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
